@@ -25,9 +25,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: AI Genomics Fellow
+      institution: New York Genome Center, New York, NY, United States
+      year: 07/2026–present
+      description: Develop deep learning methods (DNA language models) to predicting non-coding variant effect, prioritize causal variants for diagnosis and therapeutic target discovery.
+
     - title: Postdoctoral Research Associate
       institution: Ren Lab, New York Genome Center, New York, NY, United States
-      year: 03/2025–present
+      year: 03/2025–06/2026
       description: Develop deep learning methods (DNA language models) to predicting non-coding variant effect, prioritize causal variants for diagnosis and therapeutic target discovery.
 
     - title: Data Science & Machine Learning Intern
@@ -51,6 +56,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/zhongguojie1998/EpiBRAIN">EpiBRAIN</a>
+      year: 2025-2026
+      description: Sequence-to-function model for predicting cell-type-specific chromatin profiles, gene expression and non-coding variant effects in human brain.
     - title: <a href="https://github.com/ShenLab/PreMode">PreMode</a>
       year: 2022-2024
       description: PreMode predicts mode-of-action of missense variants by deep graph representation learning of protein sequence and structural context.
